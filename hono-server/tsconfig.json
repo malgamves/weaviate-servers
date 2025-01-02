@@ -4,6 +4,8 @@
     "module": "NodeNext",
     "strict": true,
     "verbatimModuleSyntax": true,
+    "allowImportingTsExtensions": true,
+    "noEmit": true,
     "skipLibCheck": true,
     "types": [
       "node"
