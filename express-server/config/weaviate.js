@@ -1,7 +1,5 @@
 import weaviate from 'weaviate-client'
-import dotenv from 'dotenv';
-
-dotenv.config();
+import 'dotenv/config'
 
 export const connectToDB = async () => {
   try {

@@ -1,12 +1,15 @@
 import express from 'express';
 import { connectToDB } from './config/weaviate.js';
+import cors from 'cors'
+
 
 const app = express();
 const port = 3005
+app.use(cors())
 
 const client = await connectToDB();
 
-app.get('/', async function(req, res, next) {
+app.get('/search', async function(req, res, next) {
     var searchTerm = req.query.searchTerm;
 
     const wikipedia = client.collections.get("Wikipedia")
