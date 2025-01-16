@@ -1,7 +1,7 @@
 import { serve } from '@hono/node-server'
 import { Hono } from 'hono'
 import hybrid from './search/hybrid.ts'
-import semantic from './search/semantic.ts'
+import vector from './search/vector.ts'
 import generate from './search/generate.ts'
 
 // Initialize Hono app
@@ -12,8 +12,8 @@ app.get('/', (c) => {
 })
 
 app.route('/search/keyword', hybrid)
-app.route('/search/semantic', semantic)
-app.route('/search/rag', generate)
+app.route('/search/vector', vector)
+app.route('/search/generate', generate)
 
 const port = 3000
 console.log(`Server is running on port ${port}`)
