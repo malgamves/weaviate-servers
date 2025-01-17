@@ -4,13 +4,13 @@ import { cors } from 'hono/cors'
 import { connectToDB } from '../../config/weaviate.ts';
 
 const app = new Hono()
-const client = await connectToDB();
 
 // Middleware
 app.use('*', logger())
 app.use('*', cors())
 
 app.get('/', async (c) => {
+  const client = await connectToDB();
   const searchTerm = c.req.query("searchTerm");
 
   const wikipedia = client.collections.get("Wiki")
