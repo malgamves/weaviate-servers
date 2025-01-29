@@ -11,7 +11,7 @@ app.get('/', (c) => {
   return c.text('Hello from Hono!')
 })
 
-app.route('/search/keyword', hybrid)
+app.route('/search/hybrid', hybrid)
 app.route('/search/vector', vector)
 app.route('/search/generate', generate)
 
