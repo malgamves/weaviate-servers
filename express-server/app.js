@@ -12,7 +12,7 @@ const client = await connectToDB();
 app.get('/search', async function(req, res, next) {
     var searchTerm = req.query.searchTerm;
 
-    const wikipedia = client.collections.get("Wikipedia")
+    const wikipedia = client.collections.use("Wikipedia")
 
     try {
         const response = await wikipedia.query.nearText(searchTerm, {

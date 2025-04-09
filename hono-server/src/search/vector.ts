@@ -13,7 +13,7 @@ app.get('/', async (c) => {
   const client = await connectToDB();
   const searchTerm = c.req.query("searchTerm");
 
-  const wikipedia = client.collections.get("Wiki")
+  const wikipedia = client.collections.use("Wiki")
 
   if (searchTerm) {
     try {

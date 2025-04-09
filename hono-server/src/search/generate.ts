@@ -14,7 +14,7 @@ app.get('/', async (c) => {
   const searchTerm = c.req.query("searchTerm");
   const prompt = c.req.query("prompt")
 
-  const wikipedia = client.collections.get("Wiki")
+  const wikipedia = client.collections.use("Wiki")
 
   if (searchTerm) {
     try {
