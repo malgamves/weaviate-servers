@@ -13,14 +13,17 @@ app.get('/', async (c) => {
   const client = await connectToDB();
   const searchTerm = c.req.query("searchTerm");
 
-  const wikipedia = client.collections.get("Wiki")
+  const wikipedia = client.collections.get("WikipediaM")
 
   if (searchTerm) {
     try {
+      
       const response = await wikipedia.query.hybrid(searchTerm, {
-        limit: 5
+        limit: 5,
+        returnProperties: ["text", "title"],
+        alpha: 0.1
       })
-
+      
       return c.json(response)
     } catch (error) {
       if (error instanceof Error) {

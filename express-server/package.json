@@ -13,6 +13,8 @@
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
     "express": "^4.21.1",
-    "weaviate-client": "^3.1.5"
+    "pdf-to-png-converter": "^3.6.4",
+    "pdfjs-dist": "^4.10.38",
+    "weaviate-client": "^3.3.6"
   }
 }
