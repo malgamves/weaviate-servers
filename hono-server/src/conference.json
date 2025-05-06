@@ -1,0 +1,122 @@
+[
+    {
+      "title": "Ethical AI: Building Systems That Benefit Humanity",
+      "track": "Artificial Intelligence",
+      "description": "Drawing from her work in medical AI, Sofia Rossi explores the critical intersection of cutting-edge AI development and ethical considerations. This talk presents a framework for ensuring AI systems enhance human capability without reinforcing biases or creating new forms of inequality. Using case studies from her research, Sofia demonstrates how ethical considerations can be built into the development process from day one.",
+      "datetime": "May 15, 2025, 09:30 - 10:15",
+      "duration_minutes": 45,
+      "location": "Main Hall",
+      "speaker_name": "Sofia Rossi",
+      "speaker_role": "AI Research Lead",
+      "speaker_company": "NeuralTech Milan",
+      "speaker_bio": "Former quantum physicist turned AI researcher with a focus on ethical machine learning practices in healthcare. Has pioneered several breakthrough algorithms for medical imaging analysis."
+    },
+    {
+      "title": "Scaling Technology for the Next Billion Users",
+      "track": "Infrastructure",
+      "description": "How do you build robust technology solutions when reliable internet and electricity can't be taken for granted? Kwame Osei shares insights from building digital infrastructure across Africa, highlighting innovative approaches to connectivity, offline functionality, and energy efficiency. Learn practical strategies for designing truly global applications that work for users in all contexts.",
+      "datetime": "May 15, 2025, 10:30 - 11:15",
+      "duration_minutes": 45,
+      "location": "Main Hall",
+      "speaker_name": "Kwame Osei",
+      "speaker_role": "CTO",
+      "speaker_company": "AfriDevs",
+      "speaker_bio": "Leading technologist focusing on infrastructure solutions for emerging markets. Built Ghana's first cloud service provider and mentors young developers across Africa."
+    },
+    {
+      "title": "The Open Source Revolution: Building Your Developer Community",
+      "track": "Community & Open Source",
+      "description": "What transforms a good project into a thriving open source ecosystem? Jun Park deconstructs the success stories of major open source projects, including his own widely-adopted frameworks. This talk covers community building strategies, governance models, documentation approaches, and contribution pathways that create sustainable open source communities. Includes practical advice for maintainers at any stage.",
+      "datetime": "May 15, 2025, 13:00 - 13:45",
+      "duration_minutes": 45,
+      "location": "Developer Commons",
+      "speaker_name": "Jun Park",
+      "speaker_role": "Open Source Advocate",
+      "speaker_company": "Mozilla Foundation",
+      "speaker_bio": "Creator of three widely-used JavaScript frameworks and passionate about web accessibility. Maintains several critical open-source projects with millions of monthly downloads."
+    },
+    {
+      "title": "Security by Design: Protecting Applications from Day Zero",
+      "track": "Security",
+      "description": "Most security vulnerabilities are introduced during the initial design phase, not in implementation. Aisha Khan demonstrates how shifting security left can dramatically reduce vulnerabilities while accelerating development. Drawing from her experience identifying zero-day exploits, this talk provides actionable patterns for security-first application design across web, mobile, and IoT platforms.",
+      "datetime": "May 15, 2025, 14:00 - 15:30",
+      "duration_minutes": 90,
+      "location": "Security Pavilion",
+      "speaker_name": "Aisha Khan",
+      "speaker_role": "Cybersecurity Expert",
+      "speaker_company": "SecureMatrix",
+      "speaker_bio": "Ethical hacker who has consulted for major financial institutions worldwide. Specializes in zero-day vulnerability detection and holds multiple patents in authentication systems."
+    },
+    {
+      "title": "From Vineyard to Blockchain: A Local Digital Transformation Story",
+      "track": "Blockchain & Web3",
+      "description": "Marco Bianchi shares the remarkable journey of transforming his family's three-generation Italian vineyard business using blockchain technology. This practical case study demonstrates how distributed ledger technology can solve real-world supply chain challenges, build consumer trust, and create new business models. The talk includes honest reflections on implementation challenges and lessons learned.",
+      "datetime": "May 16, 2025, 09:30 - 10:15",
+      "duration_minutes": 45,
+      "location": "Innovation Stage",
+      "speaker_name": "Marco Bianchi",
+      "speaker_role": "Blockchain Architect",
+      "speaker_company": "Alpine Distributed Systems",
+      "speaker_bio": "Local Italian developer who transformed his family's traditional business using blockchain. Now consults for central banks on digital currency implementation."
+    },
+    {
+      "title": "Quantum Computing: Practical Applications for Today's Developers",
+      "track": "Emerging Technologies",
+      "description": "Quantum computing doesn't have to remain theoretical. Priya Sharma demystifies quantum development by showing practical applications that can be explored today. This session introduces quantum programming concepts using Qiskit and Cirq, demonstrates hybrid classical-quantum algorithms, and explores near-term applications in optimization, machine learning, and cryptography. Includes live coding demonstrations accessible to developers without physics backgrounds.",
+      "datetime": "May 16, 2025, 10:30 - 12:00",
+      "duration_minutes": 90,
+      "location": "Main Hall",
+      "speaker_name": "Priya Sharma",
+      "speaker_role": "VP of Engineering",
+      "speaker_company": "Quantum Leap Technologies",
+      "speaker_bio": "Leading expert in quantum computing applications for business. Previously led engineering teams at Google and Amazon, focusing on scalable cloud infrastructure."
+    },
+    {
+      "title": "Code for Everyone: Beyond Compliance in Accessible Development",
+      "track": "Accessibility & Inclusion",
+      "description": "True accessibility goes beyond checklists and compliance. Gabriel Santos shares his journey as a visually impaired developer creating technology that works for everyone. Drawing from personal experience and professional expertise, this talk reframes accessibility as an innovation opportunity rather than a regulatory burden. Includes demonstrations of emerging assistive technologies and practical implementation guidance for developers.",
+      "datetime": "May 16, 2025, 13:30 - 14:15",
+      "duration_minutes": 45,
+      "location": "Developer Commons",
+      "speaker_name": "Gabriel Santos",
+      "speaker_role": "Accessibility Specialist",
+      "speaker_company": "Inclusive Tech Lab",
+      "speaker_bio": "Born with visual impairment, Gabriel has dedicated his career to making technology accessible to all. Created an open-source toolkit used by over 5,000 companies worldwide."
+    },
+    {
+      "title": "Green Code: Reducing the Carbon Footprint of Your Applications",
+      "track": "Sustainable Development",
+      "description": "Software has an environmental impact. Emma Wilson presents surprising research on the carbon footprint of different programming patterns, frameworks, and infrastructure choices. This talk introduces the concept of 'computational efficiency as sustainability' and provides practical optimization strategies that reduce both cloud costs and environmental impact. Includes case studies showing how small code changes can make significant environmental differences at scale.",
+      "datetime": "May 16, 2025, 15:00 - 15:45",
+      "duration_minutes": 45,
+      "location": "Alpine View Room",
+      "speaker_name": "Emma Wilson",
+      "speaker_role": "Climate Tech Innovator",
+      "speaker_company": "GreenCode Initiative",
+      "speaker_bio": "Former game developer now focused on reducing the carbon footprint of software. Created a framework that reduces cloud computing energy usage by 40%."
+    },
+    {
+      "title": "The Future is Spatial: Building Meaningful AR/VR Experiences",
+      "track": "Augmented & Virtual Reality",
+      "description": "As AR and VR technologies mature, how do we move beyond novelty to create experiences that provide lasting value? Hassan Al-Farsi shares insights from developing industrial AR applications that transformed worker safety and productivity. This forward-looking talk explores the principles of human-centered spatial computing, the convergence of AR/VR with AI, and practical development approaches using current toolkits while preparing for the platforms of tomorrow.",
+      "datetime": "May 17, 2025, 09:30 - 10:15",
+      "duration_minutes": 45,
+      "location": "Innovation Stage",
+      "speaker_name": "Hassan Al-Farsi",
+      "speaker_role": "AR/VR Developer",
+      "speaker_company": "Spatial Computing Labs",
+      "speaker_bio": "Pioneer in augmented reality applications for industrial settings. His work has transformed training protocols in high-risk industries like oil and gas."
+    },
+    {
+      "title": "Beyond CI/CD: Evolving DevOps for the Platform Era",
+      "track": "DevOps & Platform Engineering",
+      "description": "Traditional CI/CD pipelines are evolving into comprehensive internal developer platforms. Léa Moreau examines this transition and provides a blueprint for building the next generation of developer tooling. Based on her MicroDeploy methodology, this talk covers platform team structures, developer experience design, and the evolution of deployment practices from manual operations to fully automated systems with sophisticated control planes.",
+      "datetime": "May 17, 2025, 11:00 - 12:30",
+      "duration_minutes": 90,
+      "location": "Main Hall",
+      "speaker_name": "Léa Moreau",
+      "speaker_role": "DevOps Transformation Coach",
+      "speaker_company": "Agile Operations Collective",
+      "speaker_bio": "Revolutionized deployment practices at multiple Fortune 500 companies. Author of 'Beyond CI/CD' and creator of the widely-adopted MicroDeploy methodology."
+    }
+  ]
