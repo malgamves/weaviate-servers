@@ -1,0 +1,72 @@
+[
+    {
+      "name": "Copenhagen Lounge Chair",
+      "price": 1299.99,
+      "description": "Elegant wooden frame lounge chair with plush cushions and supportive backrest. Features organic curves and natural materials for a timeless Scandinavian appeal.",
+      "country_of_origin": "Denmark",
+      "style": "Scandinavian Modern"
+    },
+    {
+      "name": "Orbital Coffee Table",
+      "price": 849.50,
+      "description": "Round glass-top coffee table with concentric metal rings forming the base. The futuristic design creates a floating illusion while remaining functional.",
+      "country_of_origin": "Italy",
+      "style": "Space Age"
+    },
+    {
+      "name": "Kyoto Platform Bed",
+      "price": 1875.00,
+      "description": "Low profile solid wood bed frame with integrated nightstands. Minimalist design emphasizes clean lines and natural wood grain patterns.",
+      "country_of_origin": "Japan",
+      "style": "Minimalist"
+    },
+    {
+      "name": "Eames-Inspired Recliner",
+      "price": 1450.00,
+      "description": "Leather and bent plywood recliner with matching ottoman. The iconic silhouette combines comfort with architectural principles.",
+      "country_of_origin": "United States",
+      "style": "Mid-Century Modern"
+    },
+    {
+      "name": "Mumbai Storage Cabinet",
+      "price": 1199.00,
+      "description": "Hand-carved wooden cabinet with intricate geometric patterns and brass hardware. Features adjustable shelving and hidden compartments.",
+      "country_of_origin": "India",
+      "style": "Bohemian"
+    },
+    {
+      "name": "Berlin Modular Sofa",
+      "price": 2899.99,
+      "description": "Contemporary modular sectional with multiple configuration options. Clean lines and neutral upholstery make it adaptable to various interior schemes.",
+      "country_of_origin": "Germany",
+      "style": "Contemporary"
+    },
+    {
+      "name": "Acapulco Dining Table",
+      "price": 1650.00,
+      "description": "Solid oak dining table with hairpin metal legs. The contrast between natural wood top and industrial supports creates a balanced statement piece.",
+      "country_of_origin": "Mexico",
+      "style": "Industrial Modern"
+    },
+    {
+      "name": "Vienna Rococo Armchair",
+      "price": 2250.00,
+      "description": "Ornate hand-carved frame with velvet upholstery and decorative gold leaf details. The curved arms and cabriole legs embody classical European craftsmanship.",
+      "country_of_origin": "Austria",
+      "style": "Classical"
+    },
+    {
+      "name": "Shanghai Room Divider",
+      "price": 899.00,
+      "description": "Three-panel folding screen with bamboo frame and translucent rice paper inserts. Traditional craftsmanship meets modern functionality.",
+      "country_of_origin": "China",
+      "style": "Asian Fusion"
+    },
+    {
+      "name": "Marrakech Floor Lamp",
+      "price": 535.75,
+      "description": "Handcrafted metal lamp with intricate cutout patterns that cast decorative shadows. The antiqued brass finish adds warmth to any space.",
+      "country_of_origin": "Morocco",
+      "style": "Moroccan"
+    }
+  ]
